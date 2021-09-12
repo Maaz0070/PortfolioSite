@@ -3,22 +3,17 @@
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img width="1351" alt="Screen Shot 2021-09-12 at 4 08 51 PM" src="https://user-images.githubusercontent.com/67044481/133005716-5578db8e-0667-4bc0-a948-c913de9d25b3.png">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img width="1427" alt="Screen Shot 2021-09-12 at 4 09 23 PM" src="https://user-images.githubusercontent.com/67044481/133005721-039ee3dc-8e93-48fd-841e-01180b82c7a2.png">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img width="1351" alt="Screen Shot 2021-09-12 at 4 08 51 PM" src="https://user-images.githubusercontent.com/67044481/133005732-a867e2d4-1722-47e3-8b57-000ad9a3f67e.png">
   
 
 
@@ -70,8 +65,3 @@
 #### Step 3
 
 - 🔃 Create a new pull request.
-
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
