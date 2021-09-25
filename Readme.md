@@ -5,15 +5,15 @@
 
 ### Website Preview
 #### Home Page
-<img width="1351" alt="Screen Shot 2021-09-12 at 4 08 51 PM" src="https://user-images.githubusercontent.com/67044481/133005716-5578db8e-0667-4bc0-a948-c913de9d25b3.png">
+![Screen Shot 2021-09-25 at 7 48 33 AM](https://user-images.githubusercontent.com/67044481/134775617-845808ef-3cc1-46ae-bb10-7e89e634422f.png)
 
 
 #### About Page
-<img width="1427" alt="Screen Shot 2021-09-12 at 4 09 23 PM" src="https://user-images.githubusercontent.com/67044481/133005721-039ee3dc-8e93-48fd-841e-01180b82c7a2.png">
+![Screen Shot 2021-09-25 at 7 50 42 AM](https://user-images.githubusercontent.com/67044481/134775637-82a7ef22-a152-4189-9f64-aa9c25d63e2d.png)
 
 
 #### Projects Page
-<img width="1351" alt="Screen Shot 2021-09-12 at 4 08 51 PM" src="https://user-images.githubusercontent.com/67044481/133005732-a867e2d4-1722-47e3-8b57-000ad9a3f67e.png">
+![Screen Shot 2021-09-25 at 7 51 36 AM](https://user-images.githubusercontent.com/67044481/134775673-23438a21-fd87-455a-91de-3c95473fe7ae.png)
   
 
 
